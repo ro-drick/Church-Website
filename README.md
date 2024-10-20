@@ -1,2 +1,1 @@
 # Church-Website
-Landing Page
